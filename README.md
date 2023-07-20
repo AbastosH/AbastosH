@@ -1,4 +1,4 @@
-<h2>Eu sou o Augusto, QA com enfâse em automação e hoje eu busco uma transição de carreira para desenvolvimento Front-End</h2>
+<h2>Eu sou o Augusto, QA com enfâse em automação e hoje eu busco uma transição de carreira para virar Desenvolvedor</h2>
 
 - ✨ Apaixonado por Front-End
 - 🌱 Estudando JavaScript & React :)
