@@ -2,7 +2,6 @@
 
 - ✨ Apaixonado por Automatização de Processos e Estatistica
 - 🌱 Estudando Python & Estatistica :)
-- 💞️ Pronouns: ele/dele
 
 <!---
 AbastosH/AbastosH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
