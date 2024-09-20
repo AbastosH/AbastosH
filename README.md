@@ -1,6 +1,6 @@
 <h2>Eu sou o Augusto, QA com enfâse em automação e hoje eu busco uma transição de carreira para virar Desenvolvedor</h2>
 
-- ✨ Apaixonado por Front-End
+- ✨ Apaixonado por Automatização de Processos e Estatistica
 - 🌱 Estudando Python & Estatistica :)
 - 💞️ Pronouns: ele/dele
 
